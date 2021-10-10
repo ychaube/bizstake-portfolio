@@ -1,2 +1,2 @@
-# bizstake-portfolio
-Bizstake portfolio website
+# Tagkka-portfolio
+Tagkka portfolio website
